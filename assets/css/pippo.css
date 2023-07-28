@@ -306,6 +306,9 @@ aside .rightAside .linkAside div a {
   aside .rightAside .btnAside a {
     display: none;
   }
+  .card {
+    width: 40%;
+  }
 }
 
 @media screen and (max-width: 750px) {
