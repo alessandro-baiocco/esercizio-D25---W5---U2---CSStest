@@ -311,6 +311,9 @@ aside .rightAside .linkAside div a {
   .card {
     width: 40%;
   }
+  .rightAside {
+    position: relative;
+  }
 }
 
 @media screen and (max-width: 750px) {
